@@ -1,0 +1,6 @@
+Complete The following takks
+  Create a new Django Project: "ProTwo"
+  Create a new Django App: "AppTwo"
+  Create an inde view that returns:
+    <em>My Second App</em>
+  Link this view to the urls.py file
